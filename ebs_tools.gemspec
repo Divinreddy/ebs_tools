@@ -18,8 +18,19 @@ Gem::Specification.new do |s|
     "README.md"
   ]
   s.files = [
+    ".document",
+    "CHANGELOG.md",
+    "Gemfile",
+    "Gemfile.lock",
     "LICENSE",
-    "README.md"
+    "README.md",
+    "Rakefile",
+    "bin/ebs_tools",
+    "ebs_tools.gemspec",
+    "lib/ebs_tools.rb",
+    "lib/ebstools/version.rb",
+    "test/helper.rb",
+    "test/test_ebs_tools.rb"
   ]
   s.homepage = "http://github.com/jakshi/ebs_tools"
   s.licenses = ["Apache License, Version 2.0"]

@@ -1,3 +1,3 @@
-module EBSTools
+class EBSTools
   VERSION = '0.0.1'
 end
