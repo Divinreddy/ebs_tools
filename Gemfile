@@ -8,7 +8,7 @@ source "http://rubygems.org"
 
 gem 'settingslogic'
 gem 'commander'
-gem 'aws-sdk'
+gem 'aws-sdk', '~> 2'
 
 group :development do
   gem "shoulda", ">= 0"

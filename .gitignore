@@ -9,9 +9,6 @@ rdoc
 doc
 .yardoc
 
-# bundler
-.bundle
-
 # jeweler generated
 pkg
 
@@ -51,3 +48,6 @@ pkg
 # Bundler
 .bundle
 vendor/bundle
+
+# Ruby
+Gemfile.lock
